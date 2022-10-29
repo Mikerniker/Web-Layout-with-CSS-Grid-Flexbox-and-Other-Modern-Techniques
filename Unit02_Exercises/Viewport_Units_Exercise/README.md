@@ -30,7 +30,7 @@ recommended to avoid applying a 100vw to an element (or combination of elements)
 because the lateral position of the scroll bar depending on the operating system could
 cause some horizontal scrolling on the page.
 
-**wh**
+**vh**
 Unit relative to the height of the viewport. 100vh is equal to 100% of the height of the
 viewport.
 
